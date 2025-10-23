@@ -1,9 +1,10 @@
-# Storyline Brainstorm:
+Storyline Brainstorm:
 - Retro Revival (8-bit or 16-bit with a modern twist) and no copyrighted material.
 - Storyboard:
     - Typical plot from 8-bit games but with more modernized and deep storytelling in the 8-bit/16-bit style.
         - Player enters a world where they fight fictional characters from games they have played in their life. Each boss has attacks that the player remembers from their youth, but they're much harder now as it's real, no longer fiction. What was once a fun passtime was now a dynamic, imaginative experience where the player's life is on the line. Will they make it out alive?
     - Bit music or chiptune works best for this.
         - Chiptune remixes are a good place to start to understand chiptune music and how they work and function, as well as how they are composed. Considering the story is deeper, greater musical elements can be added.
+        - Modern music can also be done, but it has to be implemented wisely as a modern element and not overshadow the 8-bit/16-bit elements.
     - Pixel art is best for this. 
         - Piskel is a good website for this, but pencil sketches are recommended first and foremost. Once designs are decided upon, we move forward with dynamic pixel designs and animations for flare (if possible).
