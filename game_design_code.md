@@ -1,5 +1,5 @@
 Game design code will be decided when engine is decided.
-Possible engines:
+- Possible engines:
     - Cocrea (Scratch)
     - Godot (C#, C++)
     - GameMaker (GML)
