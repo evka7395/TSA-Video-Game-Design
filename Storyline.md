@@ -1,4 +1,4 @@
-Storyline Brainstorm:
+### Storyline Brainstorm: ###
 - Retro Revival (8-bit or 16-bit with a modern twist) and no copyrighted material.
 - Storyboard:
     - Typical plot from 8-bit games but with more modernized and deep storytelling in the 8-bit/16-bit style.
