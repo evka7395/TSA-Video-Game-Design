@@ -6,6 +6,5 @@
     - Bit music or chiptune works best for this.
         - Chiptune remixes are a good place to start to understand chiptune music and how they work and function, as well as how they are composed. Considering the story is deeper, greater musical elements can be added.
         - Modern music can also be done, but it has to be implemented wisely as a modern element and not overshadow the 8-bit/16-bit elements.
-        - This is a test
     - Pixel art is best for this. 
         - Piskel is a good website for this, but pencil sketches are recommended first and foremost. Once designs are decided upon, we move forward with dynamic pixel designs and animations for flare (if possible).
